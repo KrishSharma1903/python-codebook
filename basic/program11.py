@@ -14,4 +14,4 @@ if height > 120:
         print("Your ticket price is 1600 ")
 
 else:
-    print("You need to grow up bvefore you can ride")
+    print("You need to grow up before you can ride")
