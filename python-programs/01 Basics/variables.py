@@ -22,7 +22,7 @@ first_name = "Krish"
 last_name = "Sharma"
 age1 = 21
 
-## Understadning variable types
+## Understanding variable types
 ## Pyhton is dynamically typed and type of varibale is determined at runtime 
 
 age =32 #int 
@@ -30,7 +30,7 @@ height = 6.1 #flaot
 name="Krish" #string
 is_stuent =  True #boolean
 
-#Typechceking 
+#Typechecking 
 type(height) 
 #Typeconversion
 age = 25
@@ -39,7 +39,7 @@ age_str = str(age)
 print(type(age_str))
 
 ##Dynamic Typing 
-##Pyhton allows the type of a variable to chnage as the program executes 
+##Pyhton allows the type of a variable to change as the program executes 
 var = 10
 print(var,type(var))
 
