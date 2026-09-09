@@ -26,7 +26,7 @@ print(numbers.index(2))
 
 
 ##Packing tuples
-packed_tuple = 1,"Hello",3.14 #-> if we initalize like this then the elements are stored in a tuple
+packed_tuple = 1,"Hello",3.14 #-> if we initalize like this then the elements are stored in a tuples
 print(packed_tuple)
 
 ##Unpacking tuples
