@@ -1,28 +1,22 @@
 # 🐍 Python Codebook
 
-A personal collection of Python programs, projects, and experiments built while learning Python.
+A personal collection of Python programs, practice problems, DSA solutions, and mini-projects built while learning and practicing Python.
 
-## 📂 Current Structure
-
-```text
-python-codebook/
-├── basic/
-├── ml-basics/
-├── README.md
-└── LICENSE
-```
-
-## 🚀 Topics
-
-- Python Fundamentals
-- Automation
-- Machine Learning Basics
-- Mini Projects
-
-## 🎯 Goal
-
-To document my Python learning journey, practice consistently, and build projects ranging from beginner programs to machine learning applications.
+This repository documents my progress from Python fundamentals to practical Python development.
 
 ---
 
-⭐ Learning one commit at a time.
+## 📂 Repository Structure
+
+```text
+python-codebook/
+│
+├── 01_python-programs/
+├── 02_DSA/
+├── 03_Flask/
+├── 04_Streamlit/
+├── 05_SQLite/
+├── 06_Mini_Projects/
+│
+├── README.md
+└── LICENSE
